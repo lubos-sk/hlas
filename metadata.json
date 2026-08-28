@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Slovenský Hlasový Syntetizátor",
+  "description": "Lokálny syntetizátor slovenskej reči od základov pomocou Web Audio API, syntetizujúci fonémy, diakritiku a rytmiku.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
